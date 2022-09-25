@@ -1,4 +1,4 @@
-# VMWARE PROJECT to print url status and response time
+# Simple python service to print url status and response time
 
 clone repo
 ----------
