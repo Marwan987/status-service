@@ -35,4 +35,8 @@ kubectl port-forward service/status-service -n vmware 8000:8000
 ```
 curl http://127.0.0.1:8000
 ```
+<img width="1566" alt="image" src="https://user-images.githubusercontent.com/26167640/192163707-7a9efa83-9fbc-4584-a025-e9c1a56f6d3b.png">
 
+<img width="1710" alt="image" src="https://user-images.githubusercontent.com/26167640/192163727-1c3a4d24-da05-4bea-836d-13fef5192951.png">
+
+kubectl port-forward service/status-service -n vmware 8000:8000
