@@ -39,4 +39,3 @@ curl http://127.0.0.1:8000
 
 <img width="1710" alt="image" src="https://user-images.githubusercontent.com/26167640/192163727-1c3a4d24-da05-4bea-836d-13fef5192951.png">
 
-kubectl port-forward service/status-service -n vmware 8000:8000
