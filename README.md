@@ -5,6 +5,7 @@ clone repo
 
 ```
 git clone https://github.com/Marwan987/status-service
+cd status-service
 ```
 
 Run helm chart
