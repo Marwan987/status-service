@@ -286,6 +286,7 @@ prometheus:
 
     ## Prometheus server data Persistent Volume annotations
     ##
+    
      annotations: {}
 
     ## Prometheus server data Persistent Volume existing claim name
@@ -308,7 +309,7 @@ prometheus:
     ##   set, choosing the default provisioner.  (gp2 on AWS, standard on
     ##   GKE, AWS & OpenStack)
     ##
-     storageClass: "csi-disk-topology"
+     storageClass: ""
  alertmanager:
   ## If false, alertmanager will not be installed
   ##
